@@ -4,3 +4,6 @@ git commit -m "Enter your message"
 git pull origin main
 git push 
 git fetch
+git remote -v
+git clone
+
